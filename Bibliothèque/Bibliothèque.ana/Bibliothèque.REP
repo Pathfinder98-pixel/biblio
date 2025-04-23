@@ -1,0 +1,27 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=3	;Analysis GUID
+LOCALIZATION_UTF8=85CC5983CD9D46739D46E80BC5A675DC	Appartenir	C:\Mes projets\Bibliothèque\Appartenir.FIC
+LOCALIZATION_UTF8=2D0871A741A840A1AF5E27354B86C13B	Auteur	C:\Mes projets\Bibliothèque\Auteur.FIC
+LOCALIZATION_UTF8=0E298CD55C4143388DEDE0187C1F1B22	Ecrire	C:\Mes projets\Bibliothèque\Ecrire.FIC
+LOCALIZATION_UTF8=AD5348AB5E4147608667B1E2102B5F0B	Emprunt	C:\Mes projets\Bibliothèque\Emprunt.FIC
+LOCALIZATION_UTF8=C9A86523C05B454A8FB4DFA65641FC9D	Exemplaire	C:\Mes projets\Bibliothèque\Exemplaire.FIC
+LOCALIZATION_UTF8=91EF131473EE4CAEA17CC62807D5EAAE	Genre	C:\Mes projets\Bibliothèque\Genre.FIC
+LOCALIZATION_UTF8=B5B2E603779845509ABC0C93BB3AE399	Lecteur	C:\Mes projets\Bibliothèque\Lecteur.FIC
+LOCALIZATION_UTF8=AF87ADA043AC443A9645E5CC6EC8A23D	Ouvrage	C:\Mes projets\Bibliothèque\Ouvrage.FIC
+LOCALIZATION_UTF8=D1A0AC06C96F4CA4954E153699A1F197	Appartenir	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Appartenir.FIC
+LOCALIZATION_UTF8=0A5CB8A2596441D1B4403F6233D60908	Auteur	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Auteur.FIC
+LOCALIZATION_UTF8=DDD03476F8024BEB826F5AC3EC454304	Ecrire	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Ecrire.FIC
+LOCALIZATION_UTF8=6279EF7F9C5040DBA910554D4968BBD3	Emprunt	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Emprunt.FIC
+LOCALIZATION_UTF8=37E5DB18DDD14A0BBFD45473321D0B7D	Exemplaire	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Exemplaire.FIC
+LOCALIZATION_UTF8=F438C733CB9342388D379657B3C59B43	Genre	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Genre.FIC
+LOCALIZATION_UTF8=096020A609CB4B14B896716DE3D6A4EB	Lecteur	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Lecteur.FIC
+LOCALIZATION_UTF8=640ABBDD690B4B08BBA75E4C7EF53C66	Ouvrage	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Ouvrage.FIC
+LOCALIZATION_UTF8=15F2A0CB5DEF4087ADDB54095A7C5CDA	Appartenir	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Appartenir.FIC
+LOCALIZATION_UTF8=156C3433C8234211922491C498ACFF8E	Auteur	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Auteur.FIC
+LOCALIZATION_UTF8=7A944DA5442F432CBB4997431B193C22	Ecrire	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Ecrire.FIC
+LOCALIZATION_UTF8=97001B5657864D7894B228D64BAD7C08	Emprunt	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Emprunt.FIC
+LOCALIZATION_UTF8=074262A5A49F421D9B50B4F2E9C6F485	Exemplaire	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Exemplaire.FIC
+LOCALIZATION_UTF8=D08875A11D014FB7909593CDF4F3A8A7	Genre	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Genre.FIC
+LOCALIZATION_UTF8=E34D4F495AFB409B9F295806E85BCB47	Lecteur	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Lecteur.FIC
+LOCALIZATION_UTF8=F21FC213CBAC4909848CF913569DFDC0	Ouvrage	C:\Mes Projets\Bibliothèque\Exe\Exécutable Windows 64 bits\Ouvrage.FIC

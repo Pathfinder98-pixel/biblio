@@ -1,0 +1,31 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Appartenir		NFI		nouveau fichier
+Auteur		NFI		nouveau fichier
+Ecrire		NFI		nouveau fichier
+Emprunt		NFI		nouveau fichier
+Exemplaire		NFI		nouveau fichier
+Genre		NFI		nouveau fichier
+Lecteur		NFI		nouveau fichier
+Ouvrage		NFI		nouveau fichier
+Appartenir		FIC-	Appartenir	Fichier supprimé Appartenir
+Auteur		FIC-	Auteur	Fichier supprimé Auteur
+Ecrire		FIC-	Ecrire	Fichier supprimé Ecrire
+Emprunt		FIC-	Emprunt	Fichier supprimé Emprunt
+Exemplaire		FIC-	Exemplaire	Fichier supprimé Exemplaire
+Genre		FIC-	Genre	Fichier supprimé Genre
+Lecteur		FIC-	Lecteur	Fichier supprimé Lecteur
+Ouvrage		FIC-	Ouvrage	Fichier supprimé Ouvrage
+Exemplaire_ibfk_1		NWL	Ouvrage (No_O) et Exemplaire (No_O)	Nouvelle liaison entre les fichiers Ouvrage (No_O) et Exemplaire (No_O)
+Emprunt_ibfk_1		NWL	Lecteur (No_L) et Emprunt (No_L)	Nouvelle liaison entre les fichiers Lecteur (No_L) et Emprunt (No_L)
+Appartenir_ibfk_1		NWL	Ouvrage (No_O) et Appartenir (No_O)	Nouvelle liaison entre les fichiers Ouvrage (No_O) et Appartenir (No_O)
+Appartenir_ibfk_2		NWL	Genre (Code_G) et Appartenir (Code_G)	Nouvelle liaison entre les fichiers Genre (Code_G) et Appartenir (Code_G)
+Ecrire_ibfk_2		NWL	Auteur (No_A) et Ecrire (No_A)	Nouvelle liaison entre les fichiers Auteur (No_A) et Ecrire (No_A)
+Ecrire_ibfk_1		NWL	Ouvrage (No_O) et Ecrire (No_O)	Nouvelle liaison entre les fichiers Ouvrage (No_O) et Ecrire (No_O)
+Emprunt_ibfk_2		NWL	Exemplaire (No_Ex) et Emprunt (No_Ex)	Nouvelle liaison entre les fichiers Exemplaire (No_Ex) et Emprunt (No_Ex)
+Appartenir_ibfk_1		DEL	Ouvrage (No_O) et Appartenir (No_O)	Liaison supprimée entre les fichiers Ouvrage (No_O) et Appartenir (No_O)
+Ecrire_ibfk_1		DEL	Ouvrage (No_O) et Ecrire (No_O)	Liaison supprimée entre les fichiers Ouvrage (No_O) et Ecrire (No_O)
+Exemplaire_ibfk_1		DEL	Ouvrage (No_O) et Exemplaire (No_O)	Liaison supprimée entre les fichiers Ouvrage (No_O) et Exemplaire (No_O)
+Emprunt_ibfk_2		DEL	Exemplaire (No_Ex) et Emprunt (No_Ex)	Liaison supprimée entre les fichiers Exemplaire (No_Ex) et Emprunt (No_Ex)
+Ecrire_ibfk_2		DEL	Auteur (No_A) et Ecrire (No_A)	Liaison supprimée entre les fichiers Auteur (No_A) et Ecrire (No_A)
+Emprunt_ibfk_1		DEL	Lecteur (No_L) et Emprunt (No_L)	Liaison supprimée entre les fichiers Lecteur (No_L) et Emprunt (No_L)
+Appartenir_ibfk_2		DEL	Genre (Code_G) et Appartenir (Code_G)	Liaison supprimée entre les fichiers Genre (Code_G) et Appartenir (Code_G)

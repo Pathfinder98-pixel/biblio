@@ -1,0 +1,16 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Appartenir		NFI		nouveau fichier
+Auteur		NFI		nouveau fichier
+Ecrire		NFI		nouveau fichier
+Emprunt		NFI		nouveau fichier
+Exemplaire		NFI		nouveau fichier
+Genre		NFI		nouveau fichier
+Lecteur		NFI		nouveau fichier
+Ouvrage		NFI		nouveau fichier
+Genre_Appartenir		NWL	Genre (Code_G) et Appartenir (Code_G)	Nouvelle liaison entre les fichiers Genre (Code_G) et Appartenir (Code_G)
+Ouvrage_Ecrire		NWL	Ouvrage (No_O) et Ecrire (No_O)	Nouvelle liaison entre les fichiers Ouvrage (No_O) et Ecrire (No_O)
+Exemplaire_Emprunt		NWL	Exemplaire (No_Ex) et Emprunt (No_Ex)	Nouvelle liaison entre les fichiers Exemplaire (No_Ex) et Emprunt (No_Ex)
+Lecteur_Emprunt		NWL	Lecteur (No_L) et Emprunt (No_L)	Nouvelle liaison entre les fichiers Lecteur (No_L) et Emprunt (No_L)
+Ouvrage_Exemplaire		NWL	Ouvrage (No_O) et Exemplaire (No_O)	Nouvelle liaison entre les fichiers Ouvrage (No_O) et Exemplaire (No_O)
+Contrainte_Ecrire_Auteur		NWL	Auteur (No_A) et Ecrire (No_A)	Nouvelle liaison entre les fichiers Auteur (No_A) et Ecrire (No_A)
+Contrainte_Appartenir_Ouvrage		NWL	Ouvrage (No_O) et Appartenir (No_O)	Nouvelle liaison entre les fichiers Ouvrage (No_O) et Appartenir (No_O)
